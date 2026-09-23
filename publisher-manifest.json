@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "19a9f9c7072fb603a4c5e014",
+  "owner": "apcx3nqcm",
+  "repo": "page-7ebdbf324851aa672c017c01",
+  "title": "风驰云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7ebdbf324851aa672c017c01",
+      "a": "风驰云",
+      "b": "2027官方最新地址导航",
+      "entity": "风驰云",
+      "brand": "风驰云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9fcd394ae801b78b1852509d0cbeb4c2b495860dcca2ebf4b0d8a52d4209e697",
+      "content": {
+        "primary_entity": "风驰云",
+        "keyword1": "风驰云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，在客户端内导入订阅链接即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档配置订阅，即可开始使用风驰云。",
+          "AI_CLOSING_TITLE": "开始使用风驰云",
+          "AI_DESCRIPTION": "，聚焦海外网络加速场景，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线优化，团队版每月 1000GB、支持 20 台设备。月付与年付均可选择，年付方案更省。在电脑、手机或路由器上选择对应客户端，导入订阅后即可连接，按设备数量与流量需求挑选合适套餐。",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比套餐，快速匹配日常使用场景。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人轻度浏览与基础流媒体；旗舰版每月 300GB、5 台设备，适合多设备同时使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "所有套餐均提供月付与年付选项，年付价格更低；团队版支持 20 台设备，适合小团队共用与集中管理。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "按线路与场景选档",
+          "AI_FEATURE_TITLE_3": "按周期与人数选档",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到客户端订阅配置，流程清晰可操作。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "风驰云提供海外网络加速订阅，三档套餐覆盖个人到团队使用。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备。月付与年付均可选，按设备与流量需求挑选即可。",
+          "AI_HERO_SUBTITLE": "三档加速套餐按需选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150/年；旗舰版 ¥35/月，年付 ¥350/年；团队版 ¥85/月，年付 ¥850/年。按设备数量与月流量挑选合适档位，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "比较基础版、旗舰版与团队版的月流量、设备数量与线路特性，结合使用人数确定档位。",
+          "AI_STEP_TEXT_2": "根据电脑、手机或路由器等设备系统，选择对应订阅客户端并查看导入要求。",
+          "AI_STEP_TEXT_3": "在客户端内按说明导入订阅链接，保存配置后连接节点开始使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "风驰云加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月 100GB 流量、3 台设备；旗舰版给到 300GB 与 5 台设备，并带 IPLC 专线，适合流媒体和游戏；团队版 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "风驰云套餐按同时在线设备数量区分：基础版 3 台、旗舰版 5 台、团队版 20 台。如果家里有多部手机、平板和电脑，建议直接选择设备数匹配的套餐。",
+          "AI_FAQ_ANSWER_3": "可以，三个套餐都提供按年付方案，基础版一年 ¥150，旗舰版一年 ¥350，团队版一年 ¥850，长期使用更划算，可按需选择。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，再选择对应客户端，如 Windows、macOS、Android、iOS 等，然后在客户端内粘贴风驰云订阅链接完成导入，节点会自动同步。",
+          "AI_FAQ_ANSWER_5": "日常网页浏览选基础版即可；如果常看高清流媒体或玩外服游戏，旗舰版的 IPLC 专线和更大流量更合适；多人团队共享则直接选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "套餐可以按年付费吗？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vxunmgc.cn",
+    "host": "vxunmgc.cn"
+  },
+  "file_hashes": {
+    "index.html": "d2d5ab83eceba6cb1c9db993d12d1b8da49f7c9e613901185f7bf05831d002a7",
+    "sitemap.xml": "0416cd256cfc9a8d6f2822bbbdf6ef4a4ebd3a3bfe3d35ff12878df1193f268c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5fdc905d395de02a12d932715aebaa1dca68ddd0d96f618654d4ab39a6783195",
+    "robots.txt": "6b533b57d4bb81596bbbe15c8a98640f7cf04538009883defa55688038bce6b3",
+    "cd349649c1206be94dd359015a0f5d60.txt": "afaa7121a03c21158a801e36f370ff91718ae5b27f96794767286add45f2aa96"
+  },
+  "revision": "af4047e9853167b43c067ab8314dfdbdddd5448d40ec25f71b95e2fd1259dd3c"
+}
